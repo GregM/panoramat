@@ -1,0 +1,212 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	border: 0;
+	font: inherit;
+	font-family: 'Inconsolata', Arial;
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body {
+	min-width: 1080px;
+}
+
+.header {
+	margin: 25px 0 0 25px;
+}
+
+.header-description {
+	display: block;
+	margin-top: 15px;
+	width: 250px;
+}
+
+.social-sharing {
+	margin-top: 50px;
+}
+
+.panoramat-image-wrapper {
+	margin: 200px 0 400px 0;
+	overflow: scroll;
+}
+
+.panoramat-image-wrapper-img {
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 247px;
+}
+
+.panoramat-image-title {
+	padding-top: 10px;
+	font-size: 16px;
+}
+
+.panoramat-image-date {
+	font-size: 13px;
+}
+
+.panoramat-image-title, .panoramat-image-date {
+	display: block;
+	margin-left: 15%;
+	text-align: left;
+}
+
+.panoramat-image-wrapper-4403-img {
+	background-image: url('../images/IMG_4403.JPG');
+}
+
+.panoramat-image-wrapper-4404-img {
+	background-image: url('../images/IMG_4404.JPG');
+}
+
+.panoramat-image-wrapper-4405-img {
+	background-image: url('../images/IMG_4405.JPG');
+}
+
+.panoramat-image-wrapper-4406-img {
+	background-image: url('../images/IMG_4406.JPG');
+}
+
+.panoramat-image-wrapper-4409-img {
+	background-image: url('../images/IMG_4409.JPG');
+}
+
+.panoramat-image-wrapper-4410-img {
+	background-image: url('../images/IMG_4410.JPG');
+}
+
+.panoramat-image-wrapper-4411-img {
+	background-image: url('../images/IMG_4411.JPG');
+}
+
+.panoramat-image-wrapper-4417-img {
+	background-image: url('../images/IMG_4417.JPG');
+}
+
+.panoramat-image-wrapper-4422-img {
+	background-image: url('../images/IMG_4422.JPG');
+}
+
+.panoramat-image-wrapper-4425-img {
+	background-image: url('../images/IMG_4425.JPG');
+}
+
+.panoramat-image-wrapper-4426-img {
+	background-image: url('../images/IMG_4426.JPG');
+}
+
+.panoramat-image-wrapper-4427-img {
+	background-image: url('../images/IMG_4427.JPG');
+}
+
+.panoramat-image-wrapper-4428-img {
+	background-image: url('../images/IMG_4428.JPG');
+}
+
+.panoramat-image-wrapper-4429-img {
+	background-image: url('../images/IMG_4429.JPG');
+}
+
+.panoramat-image-wrapper-4430-img {
+	background-image: url('../images/IMG_4430.JPG');
+}
+
+.panoramat-image-wrapper-4432-img {
+	background-image: url('../images/IMG_4432.JPG');
+}
+
+.panoramat-image-wrapper-4433-img {
+	background-image: url('../images/IMG_4433.JPG');
+}
+
+.panoramat-image-wrapper-4439-img {
+	background-image: url('../images/IMG_4439.JPG');
+}
+
+.panoramat-image-wrapper-4443-img {
+	background-image: url('../images/IMG_4443.JPG');
+}
+
+.panoramat-image-wrapper-4448-img {
+	background-image: url('../images/IMG_4448.JPG');
+}
+
+.panoramat-image-wrapper-4450-img {
+	background-image: url('../images/IMG_4450.JPG');
+}
+
+.panoramat-image-wrapper-4451-img {
+	background-image: url('../images/IMG_4451.JPG');
+}
+
+.panoramat-image-wrapper-4452-img {
+	background-image: url('../images/IMG_4452.JPG');
+}
+
+.panoramat-image-wrapper-4453-img {
+	background-image: url('../images/IMG_4453.JPG');
+}
+
+.panoramat-image-wrapper-4456-img {
+	background-image: url('../images/IMG_4456.JPG');
+}
+
+.panoramat-image-wrapper-4457-img {
+	background-image: url('../images/IMG_4457.JPG');
+}
+
+.panoramat-image-wrapper-4459-img {
+	background-image: url('../images/IMG_4459.JPG');
+}
+
+.panoramat-image-wrapper-4585-img {
+	background-image: url('../images/IMG_4585.JPG');
+}
+
+.panoramat-image-wrapper-4586-img {
+	background-image: url('../images/IMG_4586.JPG');
+}
+
+.panoramat-image-wrapper-4592-img {
+	background-image: url('../images/IMG_4592.JPG');
+}
+
+.panoramat-image-wrapper-4593-img {
+	background-image: url('../images/IMG_4593.JPG');
+}
